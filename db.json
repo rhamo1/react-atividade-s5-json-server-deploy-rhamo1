@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "bestPassw0rd",
+      "id": 1
+    },
+    {
+      "email": "olivier@mail.com",
+      "password": "bestPassw0rd",
+      "id": 2
+    },
+    {
+      "email": "olivier@mail.com",
+      "password": "bestPassw0rd",
+      "id": 3
+    },
+    {
+      "email": "olivier@mail.com",
+      "password": "bestPassw0rd",
+      "id": 4
+    },
+    {
+      "email": "olivie1r@mail.com",
+      "password": "bestPassw0rd",
+      "id": 5
+    },
+    {
+      "email": "gospel@mail.com",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "email": "gospel@mail.com",
+      "password": "1234567",
+      "id": 7
+    },
+    {
+      "email": "gospel@mail.com",
+      "password": "1234567",
+      "id": 8
+    },
+    {
+      "email": "gospel144@mail.com",
+      "password": "$2a$10$HdywX8WOTntfIyRfOT8BaOcIZclX.4SPJ.BhetengjUB6Tcymg5pO",
+      "id": 9
+    },
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$ao.llbHXSzh7LD.Z5uCi5efUnT6CYDUuWtJ5XABliAeOToIVNKN/6",
+      "id": 10
+    },
+    {
+      "email": "fulaninho@mail.com",
+      "password": "$2a$10$8/WDubK5lOzlb8Yv0joBsOKuuZkK.dMbPHtLPnXW5ddrXfO8jhLq.",
+      "id": 11
+    }
+  ],
+  "subject": [
+    {
+      "Name": "Arts"
+    },
+    {
+      "Name": "Geography"
+    },
+    {
+      "Name": "History"
+    },
+    {
+      "Name": "Chemistry"
+    }
+  ],
+  "grades": [
+    {
+      "arts-grade": 98,
+      "geographu-grade": 12,
+      "history-grade": 34,
+      "chemistry-grade": 0
+    }
+  ]
+}
