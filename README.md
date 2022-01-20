@@ -1,4 +1,4 @@
-# json-server-base
+# API escolinha jooj
 
 Essa API registra as notas dos alunos da escolinha do professor Jooj.
 
